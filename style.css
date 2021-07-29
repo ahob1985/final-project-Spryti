@@ -8,6 +8,7 @@ html {
 
 body {
   text-align: center;
+  background-color: #0dbaff 
 }
 
 div, div * {
@@ -17,9 +18,12 @@ div, div * {
 
 canvas {
   margin: 0 auto;
-  border: 2px solid black;
+  color:azure
 }
 
+h1 {
+  color: #000000
+}
 
 button, input {
   margin: 0 auto;
